@@ -1,0 +1,693 @@
+{
+ "updated": "2026-11-20 18:02 IST",
+ "updated_iso": "2026-11-20T18:02:18.485854+05:30",
+ "counts": {
+  "total": 42,
+  "internships": 16,
+  "kochi": 23
+ },
+ "jobs": [
+  {
+   "title": "Flutter Developer Intern",
+   "company": "AVENTUS INFORMATICS",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Internship",
+   "stack": [
+    "Flutter",
+    "Full-stack"
+   ],
+   "posted": "",
+   "last_date": "",
+   "url": "https://infopark.in/jobs/aventus-informatics/flutter-developer-intern-5",
+   "source": "Infopark (pinned)",
+   "email": "hr@aventusinformatics.com",
+   "snippet": "Flutter Developer Intern Jobs at AVENTUS INFORMATICS | Infoparks Kerala (function(c, l, a, r, i, t, y) { c[a] = c[a] || function() { (c[a].q = c[a].q || []).push(arguments) }; t = l.createElement(r); t.async = 1; t.src ="
+  },
+  {
+   "title": "FLUTTER DEVELOPER - INTERN",
+   "company": "Intbrains Private Limited",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Internship",
+   "stack": [
+    "Flutter",
+    "Full-stack"
+   ],
+   "posted": "",
+   "last_date": "",
+   "url": "https://infopark.in/jobs/intbrains-private-limited/flutter-developer-intern-4",
+   "source": "Infopark (pinned)",
+   "email": "hr@intbrains.com",
+   "snippet": "Position Summary"
+  },
+  {
+   "title": "Flutter Development Intern",
+   "company": "LucidPlus Infotech Pvt Ltd",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Internship",
+   "stack": [
+    "Flutter",
+    "Full-stack"
+   ],
+   "posted": "",
+   "last_date": "",
+   "url": "https://infopark.in/jobs/lucidplus/flutter-development-intern",
+   "source": "Infopark (pinned)",
+   "email": "career@lucidplus.com",
+   "snippet": "Job Overview"
+  },
+  {
+   "title": "Flutter Developer Intern",
+   "company": "AMIYON SOLUTIONS PVT LTD.",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Internship",
+   "stack": [
+    "Flutter",
+    "Full-stack"
+   ],
+   "posted": "",
+   "last_date": "",
+   "url": "https://infopark.in/jobs/amiyon-solutions-pvt-ltd/flutter-developer-intern-2",
+   "source": "Infopark (pinned)",
+   "email": "hr@amiyon.com",
+   "snippet": "Responsibilities"
+  },
+  {
+   "title": "Python Django Developer Intern",
+   "company": "AVENTUS INFORMATICS",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Internship",
+   "stack": [
+    "Python",
+    "Full-stack"
+   ],
+   "posted": "",
+   "last_date": "",
+   "url": "https://infopark.in/jobs/aventus-informatics/python-django-developer-intern-5",
+   "source": "Infopark (pinned)",
+   "email": "hr@aventusinformatics.com",
+   "snippet": "About the Role"
+  },
+  {
+   "title": "Full Stack Developer Intern",
+   "company": "CloudHouse Technologies Pvt.Ltd",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Internship",
+   "stack": [
+    "Full-stack"
+   ],
+   "posted": "2026-11-17",
+   "last_date": "24 Nov 2026",
+   "url": "https://infopark.in/company-jobs/details/480/26848",
+   "source": "Infopark",
+   "email": "info@cloudhousetechnologies.com",
+   "snippet": "Full Stack Developer Intern Jobs at CloudHouse Technologies Pvt.Ltd | Infoparks Kerala (function(c, l, a, r, i, t, y) { c[a] = c[a] || function() { (c[a].q = c[a].q || []).push(arguments) }; t = l.createElement(r); t.async = 1; t.src = \"https://www.clarity.ms/",
+   "type_intern_mention": true
+  },
+  {
+   "title": "Data Base Engineer Intern",
+   "company": "QC Verify Private Limited",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Internship",
+   "stack": [
+    "Full-stack"
+   ],
+   "posted": "2026-11-16",
+   "last_date": "30 Nov 2026",
+   "url": "https://infopark.in/company-jobs/details/257/26822",
+   "source": "Infopark",
+   "email": "hr@qcverify.com",
+   "snippet": "Data Base Engineer Intern Jobs at QC Verify Private Limited | Infoparks Kerala (function(c, l, a, r, i, t, y) { c[a] = c[a] || function() { (c[a].q = c[a].q || []).push(arguments) }; t = l.createElement(r); t.async = 1; t.src = \"https://www.clarity.ms/tag/\" +",
+   "type_intern_mention": true
+  },
+  {
+   "title": "Python AI/ML Intern",
+   "company": "Bluebex",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Internship",
+   "stack": [
+    "Python"
+   ],
+   "posted": "2026-11-20",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/python-ai-ml-intern-at-bluebex-4492560075",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Flutter Developer (Freshers Welcome!)",
+   "company": "Virtual Impulse Technologies",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Trainee",
+   "stack": [
+    "Flutter",
+    "Full-stack"
+   ],
+   "posted": "",
+   "last_date": "",
+   "url": "https://infopark.in/jobs/virtual-impulse-technologies/flutter-developer-freshers-welcome",
+   "source": "Infopark (pinned)",
+   "email": "vimptech@gmail.com",
+   "snippet": "About the Role"
+  },
+  {
+   "title": "Junior Developer / Developer Trainee (Python & Django)",
+   "company": "IVBM Pvt Ltd",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Trainee",
+   "stack": [
+    "Python",
+    "Full-stack"
+   ],
+   "posted": "",
+   "last_date": "",
+   "url": "https://infopark.in/jobs/ivbm-pvt-ltd/junior-developer-developer-trainee-python-django",
+   "source": "Infopark (pinned)",
+   "email": "peopleconnect@ivbmcs.com",
+   "snippet": "Job overview"
+  },
+  {
+   "title": "Software Engineer Intern",
+   "company": "TechTaliya Informatics Pvt. Ltd.",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Internship",
+   "stack": [
+    "Full-stack"
+   ],
+   "posted": "",
+   "last_date": "",
+   "url": "https://infopark.in/jobs/techtaliya-informatics-pvt-ltd/software-engineer-intern-1",
+   "source": "Infopark (pinned)",
+   "email": "info@techtaliya.com",
+   "snippet": "Software Engineer Intern Jobs at TechTaliya Informatics Pvt. Ltd. | Infoparks Kerala (function(c, l, a, r, i, t, y) { c[a] = c[a] || function() { (c[a].q = c[a].q || []).push(arguments) }; t = l.createElement(r); t.async"
+  },
+  {
+   "title": "Flutter Developer Intern",
+   "company": "Hancod",
+   "location": "Perintalmanna, Kerala, India",
+   "city": "Other",
+   "type": "Internship",
+   "stack": [
+    "Flutter"
+   ],
+   "posted": "2026-11-11",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/flutter-developer-intern-at-hancod-4488670765",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Software Engineer Intern",
+   "company": "Weekday (YC W21)",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Internship",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-20",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/software-engineer-intern-at-weekday-yc-w21-4453416357",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Software Engineer - Winter Intern",
+   "company": "Rubrik",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Internship",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-20",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/software-engineer-winter-intern-at-rubrik-4492789475",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Moonshot Internship - AI Engineer, Decision Engine (Fast-Track to FT Role)",
+   "company": "Unloq\u00ae",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Internship",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-19",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/moonshot-internship-ai-engineer-decision-engine-fast-track-to-ft-role-at-unloq%C2%AE-4492729642",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "QA Intern",
+   "company": "Hancod",
+   "location": "Perintalmanna, Kerala, India",
+   "city": "Other",
+   "type": "Internship",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-19",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/qa-intern-at-hancod-4492139281",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "IBM Research/Research Software - Intern",
+   "company": "IBM",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Internship",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-13",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/ibm-research-research-software-intern-at-ibm-4480635433",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Software Intern",
+   "company": "Thales",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Internship",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-10",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/software-intern-at-thales-4489615629",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "AI Solutions Architect - Junior AI Engineer",
+   "company": "Napster Corp.",
+   "location": "Thiruvananthapuram, Kerala, India",
+   "city": "Trivandrum",
+   "type": "Junior",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-18",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/ai-solutions-architect-junior-ai-engineer-at-napster-corp-4490878584",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Flutter Developer",
+   "company": "Scapia",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Full-time",
+   "stack": [
+    "Flutter"
+   ],
+   "posted": "2026-11-16",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/flutter-developer-at-scapia-4490259443",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Flutter Developer",
+   "company": "CGI",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Full-time",
+   "stack": [
+    "Flutter"
+   ],
+   "posted": "2026-11-18",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/flutter-developer-at-cgi-4492042969",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Flutter Developer",
+   "company": "Infosys",
+   "location": "Bengaluru East, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Full-time",
+   "stack": [
+    "Flutter"
+   ],
+   "posted": "2026-11-17",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/flutter-developer-at-infosys-4483248915",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Mobile Software Developer - Flutter",
+   "company": "Flexiple",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Full-time",
+   "stack": [
+    "Flutter"
+   ],
+   "posted": "2026-11-20",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/mobile-software-developer-flutter-at-flexiple-4492795234",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Flutter & Vue.js / TypeScript Engineer",
+   "company": "Magnet HR Tech Digital",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Full-time",
+   "stack": [
+    "Flutter"
+   ],
+   "posted": "2026-11-18",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/flutter-vue-js-typescript-engineer-at-magnet-hr-tech-digital-4491837693",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "SDE 1 - iOS (Flutter)",
+   "company": "slice",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Full-time",
+   "stack": [
+    "Flutter",
+    "Mobile"
+   ],
+   "posted": "2026-11-16",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/sde-1-ios-flutter-at-slice-4490637226",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Mid Level Full Stack Developer",
+   "company": "Linnk Outsource Solutions India Pvt Ltd",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Full-stack"
+   ],
+   "posted": "2026-11-20",
+   "last_date": "27 Nov 2026",
+   "url": "https://infopark.in/company-jobs/details/484/26939",
+   "source": "Infopark",
+   "email": "shibu.melath@linnk.com",
+   "snippet": "Mid Level Full Stack Developer Jobs at Linnk Outsource Solutions India Pvt Ltd | Infoparks Kerala (function(c, l, a, r, i, t, y) { c[a] = c[a] || function() { (c[a].q = c[a].q || []).push(arguments) }; t = l.createElement(r); t.async = 1; t.src = \"https://www."
+  },
+  {
+   "title": "Flutter Developer",
+   "company": "Tradl AI",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Full-time",
+   "stack": [
+    "Flutter"
+   ],
+   "posted": "2026-11-11",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/flutter-developer-at-tradl-ai-4489942412",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Software Development Engineer - Flutter",
+   "company": "McAfee",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Full-time",
+   "stack": [
+    "Flutter"
+   ],
+   "posted": "2026-11-13",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/software-development-engineer-flutter-at-mcafee-4457144866",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Senior / Lead Automation Engineer",
+   "company": "Techversant Infotech Pvt Ltd",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-20",
+   "last_date": "01 Dec 2026",
+   "url": "https://infopark.in/company-jobs/details/85/26928",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Sr.DevSecOps Engineer",
+   "company": "2Base Technologies Pvt Ltd",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-20",
+   "last_date": "20 Nov 2026",
+   "url": "https://infopark.in/company-jobs/details/312/26921",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Senior Wordpress Developer",
+   "company": "Planet Media India ( PMIN Agency Pvt.Ltd.)",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-19",
+   "last_date": "31 Dec 2026",
+   "url": "https://infopark.in/company-jobs/details/266/26914",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Game Developer \u2013 Online (Part-Time / Freelance)",
+   "company": "Nestsoft TechnoMaster PVT LTD",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-19",
+   "last_date": "19 Nov 2027",
+   "url": "https://infopark.in/company-jobs/details/439/26904",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "AI/ML Engineer (Generative AI)",
+   "company": "Pearlsoft Technologies LLP",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-18",
+   "last_date": "18 Dec 2026",
+   "url": "https://infopark.in/company-jobs/details/401/26890",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Devops Engineer",
+   "company": "Feathersoft Info Solutions Private Ltd",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-18",
+   "last_date": "18 Dec 2026",
+   "url": "https://infopark.in/company-jobs/details/269/26877",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Software QA Engineer",
+   "company": "Aabasoft Technologies India Private Limited",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-18",
+   "last_date": "27 Nov 2026",
+   "url": "https://infopark.in/company-jobs/details/95/26873",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Senior SOC Engineer / Incident Response Analyst",
+   "company": "WORKSENT TECHNOLOGIES PVT LTD",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-17",
+   "last_date": "23 Nov 2026",
+   "url": "https://infopark.in/company-jobs/details/164/26851",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Revenue Cloud Developer",
+   "company": "Simelabs - An Astek Company",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-17",
+   "last_date": "29 Nov 2026",
+   "url": "https://infopark.in/company-jobs/details/378/26850",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Linux System Engineer",
+   "company": "Armia Systems Pvt. Ltd",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-16",
+   "last_date": "28 Nov 2026",
+   "url": "https://infopark.in/company-jobs/details/3/26824",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Senior DevOps & Cloud Security Engineer (Remote/Hybrid)",
+   "company": "Dooth Internet Service Pvt. Ltd.",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-16",
+   "last_date": "31 Dec 2026",
+   "url": "https://infopark.in/company-jobs/details/438/26823",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Senior DevSecOps Engineer",
+   "company": "Simelabs - An Astek Company",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-15",
+   "last_date": "22 Nov 2026",
+   "url": "https://infopark.in/company-jobs/details/378/26807",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Mobile App Developer (Remote)",
+   "company": "Rightangled",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-14",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/mobile-app-developer-remote-at-rightangled-4482850985",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Mobile Application Developer",
+   "company": "IRISS, Inc.",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-12",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/mobile-application-developer-at-iriss-inc-4490506776",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  }
+ ]
+}

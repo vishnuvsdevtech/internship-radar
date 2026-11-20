@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Internship Radar — Flutter & Python internships in Kerala and Bangalore</title>
+<meta name="description" content="A daily-updated board of Flutter, Python and full-stack internships across Kochi, Trivandrum, Calicut and Bangalore.">
+<meta name="theme-color" content="#0b0f14">
+<meta property="og:title" content="Internship Radar">
+<meta property="og:description" content="Flutter and Python internships in Kochi, Trivandrum, Calicut and Bangalore — refreshed every morning.">
+<meta property="og:type" content="website">
+<link rel="canonical" href="https://vishnuvsdevtech.github.io/internship-radar/">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="hero">
+  <div class="wrap">
+    <div class="topline">
+      <span class="mark"></span>
+      <span class="mono">INTERNSHIP RADAR</span>
+      <button class="icon" id="theme" aria-label="Theme">◐</button>
+    </div>
+    <h1>Flutter &amp; Python internships,<br><em>found before you have to hunt.</em></h1>
+    <p class="lede">Kochi · Trivandrum · Calicut · Bangalore. Collected every morning at 10:00 from
+    Infopark's own board and LinkedIn, filtered to the roles that actually fit a final-year CS student
+    with a Flutter course and three internships behind them.</p>
+    <div class="stats">
+      <div><b id="s-total">—</b><span>open roles</span></div>
+      <div><b id="s-intern">—</b><span>internships</span></div>
+      <div><b id="s-kochi">—</b><span>in Kochi</span></div>
+      <div><b id="s-new">—</b><span>new today</span></div>
+    </div>
+  </div>
+</header>
+
+<div class="bar" id="bar">
+  <div class="wrap bar-in">
+    <input id="q" class="search" type="search" placeholder="search role, company, stack…" autocomplete="off">
+    <div class="chips" id="typeChips"></div>
+    <div class="chips" id="cityChips"></div>
+  </div>
+</div>
+
+<main class="wrap">
+  <div class="meta-row">
+    <span class="mono" id="updated">loading…</span>
+    <div class="meta-right">
+      <button class="ghost" id="sort">Newest first</button>
+      <button class="ghost" id="savedBtn">★ Saved <b id="savedCount">0</b></button>
+    </div>
+  </div>
+  <div id="list" class="list"></div>
+  <div id="empty" class="empty" hidden>
+    <p>Nothing matches that. Try clearing a filter, or check back tomorrow — the board refreshes at 10:00.</p>
+  </div>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p><strong>How this works.</strong> A script runs every morning at 10:00 IST, reads Infopark's job
+    board and LinkedIn, drops everything that isn't engineering, and publishes this page. Pinned
+    internship pages are re-checked daily so they don't disappear when the listing table rotates.</p>
+    <p class="mono">Sources: infopark.in · linkedin.com — public listings only. Last built <span id="built">—</span></p>
+  </div>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
