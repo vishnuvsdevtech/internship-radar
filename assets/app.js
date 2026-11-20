@@ -3,9 +3,10 @@
   const $ = (s) => document.querySelector(s);
   const TYPES = ['All', 'Internship', 'Trainee', 'Junior', 'Full-time'];
   const CITIES = ['All cities', 'Kochi', 'Trivandrum', 'Calicut', 'Bangalore', 'Remote', 'Other'];
+  const portalOf = (j) => (j.source || '').replace(' (pinned)', '');
   const SAVED = 'radar.saved';
 
-  let jobs = [], type = 'All', city = 'All cities', q = '', sortNew = false, onlySaved = false;
+  let jobs = [], type = 'All', city = 'All cities', portal = 'All portals', q = '', sortNew = false, onlySaved = false;
   let saved = new Set();
   try { saved = new Set(JSON.parse(localStorage.getItem(SAVED) || '[]')); } catch (e) { saved = new Set(); }
 
@@ -35,6 +36,7 @@
   function match(j) {
     if (type !== 'All' && j.type !== type) return false;
     if (city !== 'All cities' && j.city !== city) return false;
+    if (portal !== 'All portals' && portalOf(j) !== portal) return false;
     if (onlySaved && !saved.has(j.url)) return false;
     if (!q) return true;
     const blob = [j.title, j.company, j.city, (j.stack || []).join(' '), j.snippet].join(' ').toLowerCase();
@@ -61,6 +63,7 @@
             <p class="company">${esc(j.company)} <span class="mono" style="color:var(--muted)">· ${rel(j.posted) || 'recently'}</span></p>
             <div class="tags">
               <span class="tag ${typeCls}">${j.type}</span>
+              <span class="tag">${esc(portalOf(j))}</span>
               <span class="tag city">${j.city}</span>
               ${stacks}
               ${isNew ? '<span class="tag new">new</span>' : ''}
@@ -107,6 +110,8 @@
   function build() {
     chipRow($('#typeChips'), TYPES, type, (v) => { type = v; build(); render(); });
     chipRow($('#cityChips'), CITIES, city, (v) => { city = v; build(); render(); });
+    const portals = ['All portals', ...new Set(jobs.map(portalOf))];
+    chipRow($('#portalChips'), portals, portal, (v) => { portal = v; build(); render(); });
     paintCounts();
     render();
   }
@@ -123,6 +128,20 @@
     e.currentTarget.classList.toggle('on', onlySaved);
     render();
   });
+
+  // Portals that refuse automated reads — surfaced as manual searches instead of
+  // pretending they are covered.
+  const Q = 'flutter python internship';
+  const MANUAL = [
+    ['Naukri', 'https://www.naukri.com/' + Q.replace(/ /g, '-') + '-jobs-in-kochi'],
+    ['Indeed', 'https://in.indeed.com/jobs?q=' + encodeURIComponent('flutter intern') + '&l=Kochi%2C+Kerala'],
+    ['Foundit', 'https://www.foundit.in/srp/results?query=' + encodeURIComponent('flutter intern') + '&locations=Kochi'],
+    ['Internshala', 'https://internshala.com/internships/keywords-' + encodeURIComponent('flutter')],
+    ['Unstop', 'https://unstop.com/internships?searchTerm=' + encodeURIComponent('flutter')],
+    ['Cutshort', 'https://cutshort.io/jobs/flutter-jobs'],
+  ];
+  const ml = $('#mlinks');
+  if (ml) ml.innerHTML = MANUAL.map(([n, u]) => `<a href="${u}" target="_blank" rel="noopener">${n} ↗</a>`).join('');
 
   const savedTheme = localStorage.getItem('radar.theme');
   if (savedTheme) document.documentElement.dataset.theme = savedTheme;
