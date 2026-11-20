@@ -5,7 +5,7 @@
   const CITIES = ['All cities', 'Kochi', 'Trivandrum', 'Calicut', 'Bangalore', 'Remote', 'Other'];
   const SAVED = 'radar.saved';
 
-  let jobs = [], type = 'All', city = 'All cities', q = '', sortNew = true, onlySaved = false;
+  let jobs = [], type = 'All', city = 'All cities', q = '', sortNew = false, onlySaved = false;
   let saved = new Set();
   try { saved = new Set(JSON.parse(localStorage.getItem(SAVED) || '[]')); } catch (e) { saved = new Set(); }
 
@@ -42,9 +42,12 @@
   }
 
   function render() {
+    // relevance order is the order the scraper produced (internships, Flutter/Python,
+    // Kochi first). Recency is the opt-in, not the default: otherwise a brand-new
+    // Bangalore listing buries the Kochi Flutter internship he actually wants.
     const rows = jobs.filter(match).sort((a, b) => {
       if (sortNew) return (b.posted || '').localeCompare(a.posted || '');
-      return 0;
+      return (a._i ?? 0) - (b._i ?? 0);
     });
 
     $('#list').innerHTML = rows.map((j) => {
@@ -133,7 +136,7 @@
   fetch('jobs.json?v=' + Date.now())
     .then((r) => r.json())
     .then((d) => {
-      jobs = d.jobs || [];
+      jobs = (d.jobs || []).map((j, i) => ({ ...j, _i: i }));
       $('#updated').textContent = 'updated ' + (d.updated || '—');
       $('#built').textContent = d.updated || '—';
       build();
