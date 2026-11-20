@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20 18:02 IST",
- "updated_iso": "2026-11-20T18:02:18.485854+05:30",
+ "updated": "2026-11-20 18:05 IST",
+ "updated_iso": "2026-11-20T18:05:32.952254+05:30",
  "counts": {
   "total": 42,
   "internships": 16,
@@ -257,22 +257,6 @@
    "snippet": ""
   },
   {
-   "title": "QA Intern",
-   "company": "Hancod",
-   "location": "Perintalmanna, Kerala, India",
-   "city": "Other",
-   "type": "Internship",
-   "stack": [
-    "Other"
-   ],
-   "posted": "2026-11-19",
-   "last_date": "",
-   "url": "https://in.linkedin.com/jobs/view/qa-intern-at-hancod-4492139281",
-   "source": "LinkedIn",
-   "email": "",
-   "snippet": ""
-  },
-  {
    "title": "IBM Research/Research Software - Intern",
    "company": "IBM",
    "location": "Bengaluru, Karnataka, India",
@@ -300,6 +284,22 @@
    "posted": "2026-11-10",
    "last_date": "",
    "url": "https://in.linkedin.com/jobs/view/software-intern-at-thales-4489615629",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "QA Intern",
+   "company": "Hancod",
+   "location": "Perintalmanna, Kerala, India",
+   "city": "Other",
+   "type": "Internship",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-19",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/qa-intern-at-hancod-4492139281",
    "source": "LinkedIn",
    "email": "",
    "snippet": ""
