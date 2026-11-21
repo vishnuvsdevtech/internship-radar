@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-20 18:24 IST",
- "updated_iso": "2026-11-20T18:24:11.962995+05:30",
+ "updated": "2026-11-21 10:02 IST",
+ "updated_iso": "2026-11-21T10:02:23.753637+05:30",
  "counts": {
-  "total": 42,
-  "internships": 16,
-  "kochi": 23
+  "total": 46,
+  "internships": 17,
+  "kochi": 26
  },
  "jobs": [
   {
@@ -203,6 +203,22 @@
    "snippet": ""
   },
   {
+   "title": "Engineer Intern",
+   "company": "TransformNXT",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Internship",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-20",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/engineer-intern-at-transformnxt-4491966038",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
    "title": "Software Engineer Intern",
    "company": "Weekday (YC W21)",
    "location": "Bengaluru, Karnataka, India",
@@ -251,6 +267,22 @@
    "snippet": ""
   },
   {
+   "title": "QA Intern",
+   "company": "Hancod",
+   "location": "Perintalmanna, Kerala, India",
+   "city": "Other",
+   "type": "Internship",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-19",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/qa-intern-at-hancod-4492139281",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
    "title": "IBM Research/Research Software - Intern",
    "company": "IBM",
    "location": "Bengaluru, Karnataka, India",
@@ -278,22 +310,6 @@
    "posted": "2026-11-10",
    "last_date": "",
    "url": "https://in.linkedin.com/jobs/view/software-intern-at-thales-4489615629",
-   "source": "LinkedIn",
-   "email": "",
-   "snippet": ""
-  },
-  {
-   "title": "QA Intern",
-   "company": "Hancod",
-   "location": "Perintalmanna, Kerala, India",
-   "city": "Other",
-   "type": "Internship",
-   "stack": [
-    "Other"
-   ],
-   "posted": "2026-11-19",
-   "last_date": "",
-   "url": "https://in.linkedin.com/jobs/view/qa-intern-at-hancod-4492139281",
    "source": "LinkedIn",
    "email": "",
    "snippet": ""
@@ -428,6 +444,38 @@
    "snippet": "Mid Level Full Stack Developer About Linnk Group Linnk Group builds next-generation enterprise SaaS platforms. At the center is the Linnk Innovation Hub, Cochin\u2014our R&D and product engineering nucleus\u2014where cross-functional teams "
   },
   {
+   "title": "Senior React Native Engineer",
+   "company": "Simelabs - An Astek Company",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Full-stack"
+   ],
+   "posted": "2026-11-15",
+   "last_date": "22 Nov 2026",
+   "url": "https://infopark.in/company-jobs/details/378/26806",
+   "source": "Infopark",
+   "email": "hr@simelabs.com",
+   "snippet": "Senior React Native Engineer About the Job Build and maintain production mobile features using React Native and TypeScript for iOS and Android. Contribute to mobile design decisions, review code, and work with backend and QA engin"
+  },
+  {
+   "title": "React. Js Web Engineer",
+   "company": "Simelabs - An Astek Company",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Full-stack"
+   ],
+   "posted": "2026-11-15",
+   "last_date": "22 Nov 2026",
+   "url": "https://infopark.in/company-jobs/details/378/26803",
+   "source": "Infopark",
+   "email": "hr@simelabs.com",
+   "snippet": "React. Js Web Engineer About the Job Build and maintain user journeys for a web portal using React.js and TypeScript. Develop reusable UI components, integrate REST APIs, and deliver responsive, accessible features backed by autom"
+  },
+  {
    "title": "Flutter Developer",
    "company": "Tradl AI",
    "location": "Bengaluru, Karnataka, India",
@@ -485,7 +533,7 @@
     "Other"
    ],
    "posted": "2026-11-20",
-   "last_date": "20 Nov 2026",
+   "last_date": "21 Nov 2026",
    "url": "https://infopark.in/company-jobs/details/312/26921",
    "source": "Infopark",
    "email": "",
@@ -647,6 +695,22 @@
    "posted": "2026-11-15",
    "last_date": "22 Nov 2026",
    "url": "https://infopark.in/company-jobs/details/378/26807",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Devops Engineer",
+   "company": "Simelabs - An Astek Company",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-15",
+   "last_date": "22 Nov 2026",
+   "url": "https://infopark.in/company-jobs/details/378/26805",
    "source": "Infopark",
    "email": "",
    "snippet": ""
