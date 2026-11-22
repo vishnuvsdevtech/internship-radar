@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-21 10:02 IST",
- "updated_iso": "2026-11-21T10:02:23.753637+05:30",
+ "updated": "2026-11-22 10:01 IST",
+ "updated_iso": "2026-11-22T10:01:27.559748+05:30",
  "counts": {
-  "total": 46,
-  "internships": 17,
-  "kochi": 26
+  "total": 50,
+  "internships": 18,
+  "kochi": 30
  },
  "jobs": [
   {
@@ -87,6 +87,23 @@
    "source": "Infopark (pinned)",
    "email": "hr@aventusinformatics.com",
    "snippet": "About the Role: We are seeking motivated and self-driven Python Django Interns who are confident in their technical foundation and excited to contribute to real-world projects. This internship offers a chance to work alongside exp"
+  },
+  {
+   "title": "Software Development .NET Internship",
+   "company": "Aabasoft Technologies India Private Limited",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Internship",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-21",
+   "last_date": "21 Dec 2026",
+   "url": "https://infopark.in/company-jobs/details/95/26950",
+   "source": "Infopark",
+   "email": "info@aabasoft.com",
+   "snippet": "are looking for IT interns with a passion for technology, collaboration, and creative problem-solving. The intern needs to actively contribute to meaningful projects and work closely with a mentor and with senior leadership on dif",
+   "type_intern_mention": true
   },
   {
    "title": "Full Stack Developer Intern",
@@ -387,9 +404,9 @@
    "stack": [
     "Flutter"
    ],
-   "posted": "2026-11-20",
+   "posted": "2026-11-21",
    "last_date": "",
-   "url": "https://in.linkedin.com/jobs/view/mobile-software-developer-flutter-at-flexiple-4492795234",
+   "url": "https://in.linkedin.com/jobs/view/mobile-software-developer-flutter-at-flexiple-4493254760",
    "source": "LinkedIn",
    "email": "",
    "snippet": ""
@@ -426,6 +443,22 @@
    "source": "LinkedIn",
    "email": "",
    "snippet": ""
+  },
+  {
+   "title": "React Native Developer",
+   "company": "iCodeBees Private Limited",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Full-stack"
+   ],
+   "posted": "2026-11-21",
+   "last_date": "24 Nov 2026",
+   "url": "https://infopark.in/company-jobs/details/450/26956",
+   "source": "Infopark",
+   "email": "info@icodebees.com",
+   "snippet": "Role: React Native Developers Experience : 6 + Yrs Job Purpose To realise the detailed design through programming and configuration and provide guidance and mentoring to other software developers Job Responsibilities *Produce work"
   },
   {
    "title": "Mid Level Full Stack Developer",
@@ -508,6 +541,38 @@
    "snippet": ""
   },
   {
+   "title": "DevOps Engineer",
+   "company": "Aabasoft Technologies India Private Limited",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-21",
+   "last_date": "21 Dec 2026",
+   "url": "https://infopark.in/company-jobs/details/95/26949",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "AI/ML Engineer",
+   "company": "Dynamed Healthcare Solutions Pvt.Ltd.",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-21",
+   "last_date": "01 Jan 2027",
+   "url": "https://infopark.in/company-jobs/details/132/26948",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
    "title": "Senior / Lead Automation Engineer",
    "company": "Techversant Infotech Pvt Ltd",
    "location": "Infopark, Kochi",
@@ -533,7 +598,7 @@
     "Other"
    ],
    "posted": "2026-11-20",
-   "last_date": "21 Nov 2026",
+   "last_date": "22 Nov 2026",
    "url": "https://infopark.in/company-jobs/details/312/26921",
    "source": "Infopark",
    "email": "",
