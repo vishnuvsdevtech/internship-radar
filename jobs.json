@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-22 10:01 IST",
- "updated_iso": "2026-11-22T10:01:27.559748+05:30",
+ "updated": "2026-11-23 10:02 IST",
+ "updated_iso": "2026-11-23T10:02:29.199711+05:30",
  "counts": {
-  "total": 50,
-  "internships": 18,
-  "kochi": 30
+  "total": 53,
+  "internships": 19,
+  "kochi": 31
  },
  "jobs": [
   {
@@ -220,17 +220,17 @@
    "snippet": ""
   },
   {
-   "title": "Engineer Intern",
-   "company": "TransformNXT",
-   "location": "Bengaluru, Karnataka, India",
-   "city": "Bangalore",
+   "title": "Data Analyst Intern",
+   "company": "Natura X",
+   "location": "Kozhikode, Kerala, India",
+   "city": "Calicut",
    "type": "Internship",
    "stack": [
     "Other"
    ],
-   "posted": "2026-11-20",
+   "posted": "2026-11-22",
    "last_date": "",
-   "url": "https://in.linkedin.com/jobs/view/engineer-intern-at-transformnxt-4491966038",
+   "url": "https://in.linkedin.com/jobs/view/data-analyst-intern-at-natura-x-4493199187",
    "source": "LinkedIn",
    "email": "",
    "snippet": ""
@@ -282,6 +282,38 @@
    "source": "LinkedIn",
    "email": "",
    "snippet": ""
+  },
+  {
+   "title": "Engineer Intern",
+   "company": "TransformNXT",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Internship",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-20",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/engineer-intern-at-transformnxt-4491966038",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Software Functional Support/ Implementer Trainee",
+   "company": "Amplitude Software Systems Pvt Ltd",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Trainee",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-13",
+   "last_date": "13 Dec 2026",
+   "url": "https://infopark.in/company-jobs/details/326/26782",
+   "source": "Infopark",
+   "email": "hr@jupiterbs.com",
+   "snippet": "Software Functional Support/ Implementer Trainee Required Software Functional Support Trainee (Freshers Candidates) in software support, Shipping & Logistics industry knowledge will be preferred. Candidates should be willing to tr"
   },
   {
    "title": "QA Intern",
@@ -356,7 +388,7 @@
    "stack": [
     "Flutter"
    ],
-   "posted": "2026-11-16",
+   "posted": "2026-11-23",
    "last_date": "",
    "url": "https://in.linkedin.com/jobs/view/flutter-developer-at-scapia-4490259443",
    "source": "LinkedIn",
@@ -404,25 +436,9 @@
    "stack": [
     "Flutter"
    ],
-   "posted": "2026-11-21",
+   "posted": "2026-11-22",
    "last_date": "",
-   "url": "https://in.linkedin.com/jobs/view/mobile-software-developer-flutter-at-flexiple-4493254760",
-   "source": "LinkedIn",
-   "email": "",
-   "snippet": ""
-  },
-  {
-   "title": "Flutter & Vue.js / TypeScript Engineer",
-   "company": "Magnet HR Tech Digital",
-   "location": "Bengaluru, Karnataka, India",
-   "city": "Bangalore",
-   "type": "Full-time",
-   "stack": [
-    "Flutter"
-   ],
-   "posted": "2026-11-18",
-   "last_date": "",
-   "url": "https://in.linkedin.com/jobs/view/flutter-vue-js-typescript-engineer-at-magnet-hr-tech-digital-4491837693",
+   "url": "https://in.linkedin.com/jobs/view/mobile-software-developer-flutter-at-flexiple-4493331281",
    "source": "LinkedIn",
    "email": "",
    "snippet": ""
@@ -440,6 +456,22 @@
    "posted": "2026-11-16",
    "last_date": "",
    "url": "https://in.linkedin.com/jobs/view/sde-1-ios-flutter-at-slice-4490637226",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Flutter & Vue.js / TypeScript Engineer",
+   "company": "Magnet HR Tech Digital",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Full-time",
+   "stack": [
+    "Flutter"
+   ],
+   "posted": "2026-11-18",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/flutter-vue-js-typescript-engineer-at-magnet-hr-tech-digital-4491837693",
    "source": "LinkedIn",
    "email": "",
    "snippet": ""
@@ -598,7 +630,7 @@
     "Other"
    ],
    "posted": "2026-11-20",
-   "last_date": "22 Nov 2026",
+   "last_date": "23 Nov 2026",
    "url": "https://infopark.in/company-jobs/details/312/26921",
    "source": "Infopark",
    "email": "",
@@ -777,6 +809,22 @@
    "last_date": "22 Nov 2026",
    "url": "https://infopark.in/company-jobs/details/378/26805",
    "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Android Developer",
+   "company": "Quest Global",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Full-time",
+   "stack": [
+    "Mobile"
+   ],
+   "posted": "2026-11-16",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/android-developer-at-quest-global-4490614545",
+   "source": "LinkedIn",
    "email": "",
    "snippet": ""
   },
