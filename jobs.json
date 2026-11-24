@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-23 10:02 IST",
- "updated_iso": "2026-11-23T10:02:29.199711+05:30",
+ "updated": "2026-11-24 13:40 IST",
+ "updated_iso": "2026-11-24T13:40:52.836066+05:30",
  "counts": {
-  "total": 53,
-  "internships": 19,
-  "kochi": 31
+  "total": 63,
+  "internships": 22,
+  "kochi": 38
  },
  "jobs": [
   {
@@ -89,6 +89,23 @@
    "snippet": "About the Role: We are seeking motivated and self-driven Python Django Interns who are confident in their technical foundation and excited to contribute to real-world projects. This internship offers a chance to work alongside exp"
   },
   {
+   "title": "SOFTWARE DEVELOPMENT \u2013 INTERNSHIP & ON-THE-JOB TRAINING PROGRAM",
+   "company": "9Commerce Technologies",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Internship",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-23",
+   "last_date": "31 Dec 2026",
+   "url": "https://infopark.in/company-jobs/details/261/26970",
+   "source": "Infopark",
+   "email": "hr@commerce9.io",
+   "snippet": "SOFTWARE DEVELOPMENT \u2013 INTERNSHIP & ON-THE-JOB TRAINING PROGRAM Kickstart Your IT Career with 9Commerce Technologies! Are you a recent college graduate looking to build a successful career in the IT industry? 9Commerce Technologie",
+   "type_intern_mention": true
+  },
+  {
    "title": "Software Development .NET Internship",
    "company": "Aabasoft Technologies India Private Limited",
    "location": "Infopark, Kochi",
@@ -104,6 +121,22 @@
    "email": "info@aabasoft.com",
    "snippet": "are looking for IT interns with a passion for technology, collaboration, and creative problem-solving. The intern needs to actively contribute to meaningful projects and work closely with a mentor and with senior leadership on dif",
    "type_intern_mention": true
+  },
+  {
+   "title": "AI & PYTHON DEVELOPER INTERN",
+   "company": "Saina Cloud Software Solutions",
+   "location": "Greater Bengaluru Area",
+   "city": "Bangalore",
+   "type": "Internship",
+   "stack": [
+    "Python"
+   ],
+   "posted": "2026-11-23",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/ai-python-developer-intern-at-saina-cloud-software-solutions-4493924021",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
   },
   {
    "title": "Full Stack Developer Intern",
@@ -252,22 +285,6 @@
    "snippet": ""
   },
   {
-   "title": "Software Engineer - Winter Intern",
-   "company": "Rubrik",
-   "location": "Bengaluru, Karnataka, India",
-   "city": "Bangalore",
-   "type": "Internship",
-   "stack": [
-    "Other"
-   ],
-   "posted": "2026-11-20",
-   "last_date": "",
-   "url": "https://in.linkedin.com/jobs/view/software-engineer-winter-intern-at-rubrik-4492789475",
-   "source": "LinkedIn",
-   "email": "",
-   "snippet": ""
-  },
-  {
    "title": "Moonshot Internship - AI Engineer, Decision Engine (Fast-Track to FT Role)",
    "company": "Unloq\u00ae",
    "location": "Bengaluru, Karnataka, India",
@@ -279,6 +296,38 @@
    "posted": "2026-11-19",
    "last_date": "",
    "url": "https://in.linkedin.com/jobs/view/moonshot-internship-ai-engineer-decision-engine-fast-track-to-ft-role-at-unloq%C2%AE-4492729642",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Forward Deployed Engineer Intern, 2027",
+   "company": "Google",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Internship",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-16",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/forward-deployed-engineer-intern-2027-at-google-4489727942",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Software Engineer - Winter Intern",
+   "company": "Rubrik",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Internship",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-20",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/software-engineer-winter-intern-at-rubrik-4492789475",
    "source": "LinkedIn",
    "email": "",
    "snippet": ""
@@ -364,6 +413,22 @@
    "snippet": ""
   },
   {
+   "title": "Associate QA Lead (Automation)",
+   "company": "Origent Technologies",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Junior",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-23",
+   "last_date": "23 Dec 2026",
+   "url": "https://infopark.in/company-jobs/details/506/26980",
+   "source": "Infopark",
+   "email": "careers@origent.in",
+   "snippet": "Associate QA Lead (Automation) Job Description \u2013 Associate QA Lead (Automation) Position: Associate QA Lead \u2013 Automation Department: Quality Assurance / Engineering Experience: 6\u20139 Years Employment Type: Full-Time Role Overview We"
+  },
+  {
    "title": "AI Solutions Architect - Junior AI Engineer",
    "company": "Napster Corp.",
    "location": "Thiruvananthapuram, Kerala, India",
@@ -375,6 +440,22 @@
    "posted": "2026-11-18",
    "last_date": "",
    "url": "https://in.linkedin.com/jobs/view/ai-solutions-architect-junior-ai-engineer-at-napster-corp-4490878584",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Flutter Developer L5",
+   "company": "Weekday AI (YC W21)",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Full-time",
+   "stack": [
+    "Flutter"
+   ],
+   "posted": "2026-11-24",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/flutter-developer-l5-at-weekday-ai-yc-w21-4493975420",
    "source": "LinkedIn",
    "email": "",
    "snippet": ""
@@ -436,9 +517,9 @@
    "stack": [
     "Flutter"
    ],
-   "posted": "2026-11-22",
+   "posted": "2026-11-24",
    "last_date": "",
-   "url": "https://in.linkedin.com/jobs/view/mobile-software-developer-flutter-at-flexiple-4493331281",
+   "url": "https://in.linkedin.com/jobs/view/mobile-software-developer-flutter-at-flexiple-4493997338",
    "source": "LinkedIn",
    "email": "",
    "snippet": ""
@@ -573,6 +654,86 @@
    "snippet": ""
   },
   {
+   "title": "Freelance Wordpress Developer",
+   "company": "Array Platforms Pvt Ltd",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-23",
+   "last_date": "31 Dec 2026",
+   "url": "https://infopark.in/company-jobs/details/394/26979",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Golang Developer",
+   "company": "Beinex Consulting Pvt Ltd",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-23",
+   "last_date": "23 Dec 2026",
+   "url": "https://infopark.in/company-jobs/details/260/26977",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Senior Linux System Engineer",
+   "company": "Armia Systems Pvt. Ltd",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-23",
+   "last_date": "29 Nov 2026",
+   "url": "https://infopark.in/company-jobs/details/3/26976",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Data Engineer \u2013 Data Pipelines & Orchestration",
+   "company": "AVENTUS INFORMATICS",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-23",
+   "last_date": "22 Dec 2026",
+   "url": "https://infopark.in/company-jobs/details/148/26975",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Senior Database Engineer",
+   "company": "Experion Technologies",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-23",
+   "last_date": "31 Dec 2026",
+   "url": "https://infopark.in/company-jobs/details/103/26966",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
    "title": "DevOps Engineer",
    "company": "Aabasoft Technologies India Private Limited",
    "location": "Infopark, Kochi",
@@ -584,22 +745,6 @@
    "posted": "2026-11-21",
    "last_date": "21 Dec 2026",
    "url": "https://infopark.in/company-jobs/details/95/26949",
-   "source": "Infopark",
-   "email": "",
-   "snippet": ""
-  },
-  {
-   "title": "AI/ML Engineer",
-   "company": "Dynamed Healthcare Solutions Pvt.Ltd.",
-   "location": "Infopark, Kochi",
-   "city": "Kochi",
-   "type": "Full-time",
-   "stack": [
-    "Other"
-   ],
-   "posted": "2026-11-21",
-   "last_date": "01 Jan 2027",
-   "url": "https://infopark.in/company-jobs/details/132/26948",
    "source": "Infopark",
    "email": "",
    "snippet": ""
@@ -630,7 +775,7 @@
     "Other"
    ],
    "posted": "2026-11-20",
-   "last_date": "23 Nov 2026",
+   "last_date": "24 Nov 2026",
    "url": "https://infopark.in/company-jobs/details/312/26921",
    "source": "Infopark",
    "email": "",
@@ -696,6 +841,22 @@
    "posted": "2026-11-18",
    "last_date": "18 Dec 2026",
    "url": "https://infopark.in/company-jobs/details/269/26877",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "AI/ML Engineer",
+   "company": "Dynamed Healthcare Solutions Pvt.Ltd.",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-21",
+   "last_date": "01 Jan 2027",
+   "url": "https://infopark.in/company-jobs/details/132/26948",
    "source": "Infopark",
    "email": "",
    "snippet": ""
