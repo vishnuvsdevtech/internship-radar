@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-24 13:40 IST",
- "updated_iso": "2026-11-24T13:40:52.836066+05:30",
+ "updated": "2026-11-25 10:02 IST",
+ "updated_iso": "2026-11-25T10:02:25.765772+05:30",
  "counts": {
-  "total": 63,
-  "internships": 22,
-  "kochi": 38
+  "total": 67,
+  "internships": 23,
+  "kochi": 39
  },
  "jobs": [
   {
@@ -269,6 +269,22 @@
    "snippet": ""
   },
   {
+   "title": "Software Engineering Intern",
+   "company": "Isomorph AI",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Internship",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-24",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/software-engineering-intern-at-isomorph-ai-4494332025",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
    "title": "Software Engineer Intern",
    "company": "Weekday (YC W21)",
    "location": "Bengaluru, Karnataka, India",
@@ -429,6 +445,22 @@
    "snippet": "Associate QA Lead (Automation) Job Description \u2013 Associate QA Lead (Automation) Position: Associate QA Lead \u2013 Automation Department: Quality Assurance / Engineering Experience: 6\u20139 Years Employment Type: Full-Time Role Overview We"
   },
   {
+   "title": "Software Engineer-Python",
+   "company": "Zapare Technologies Private Limited",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Python"
+   ],
+   "posted": "2026-11-24",
+   "last_date": "24 Dec 2026",
+   "url": "https://infopark.in/company-jobs/details/137/26995",
+   "source": "Infopark",
+   "email": "HR@zaparetech.com",
+   "snippet": "is seeking a Software Engineer to develop and maintain scalable backend applications, build REST APIs, and integrate AI/ML technologies. The role requires strong Python, Django, and database skills, along with problem-solving abil"
+  },
+  {
    "title": "AI Solutions Architect - Junior AI Engineer",
    "company": "Napster Corp.",
    "location": "Thiruvananthapuram, Kerala, India",
@@ -478,22 +510,6 @@
   },
   {
    "title": "Flutter Developer",
-   "company": "CGI",
-   "location": "Bengaluru, Karnataka, India",
-   "city": "Bangalore",
-   "type": "Full-time",
-   "stack": [
-    "Flutter"
-   ],
-   "posted": "2026-11-18",
-   "last_date": "",
-   "url": "https://in.linkedin.com/jobs/view/flutter-developer-at-cgi-4492042969",
-   "source": "LinkedIn",
-   "email": "",
-   "snippet": ""
-  },
-  {
-   "title": "Flutter Developer",
    "company": "Infosys",
    "location": "Bengaluru East, Karnataka, India",
    "city": "Bangalore",
@@ -525,6 +541,22 @@
    "snippet": ""
   },
   {
+   "title": "JR-232247 Flutter Developer Middle",
+   "company": "Customertimes",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Full-time",
+   "stack": [
+    "Flutter"
+   ],
+   "posted": "2026-11-24",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/jr-232247-flutter-developer-middle-at-customertimes-4494384765",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
    "title": "SDE 1 - iOS (Flutter)",
    "company": "slice",
    "location": "Bengaluru, Karnataka, India",
@@ -537,6 +569,22 @@
    "posted": "2026-11-16",
    "last_date": "",
    "url": "https://in.linkedin.com/jobs/view/sde-1-ios-flutter-at-slice-4490637226",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Flutter Developer",
+   "company": "CGI",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Full-time",
+   "stack": [
+    "Flutter"
+   ],
+   "posted": "2026-11-18",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/flutter-developer-at-cgi-4492042969",
    "source": "LinkedIn",
    "email": "",
    "snippet": ""
@@ -558,22 +606,6 @@
    "snippet": ""
   },
   {
-   "title": "React Native Developer",
-   "company": "iCodeBees Private Limited",
-   "location": "Infopark, Kochi",
-   "city": "Kochi",
-   "type": "Full-time",
-   "stack": [
-    "Full-stack"
-   ],
-   "posted": "2026-11-21",
-   "last_date": "24 Nov 2026",
-   "url": "https://infopark.in/company-jobs/details/450/26956",
-   "source": "Infopark",
-   "email": "info@icodebees.com",
-   "snippet": "Role: React Native Developers Experience : 6 + Yrs Job Purpose To realise the detailed design through programming and configuration and provide guidance and mentoring to other software developers Job Responsibilities *Produce work"
-  },
-  {
    "title": "Mid Level Full Stack Developer",
    "company": "Linnk Outsource Solutions India Pvt Ltd",
    "location": "Infopark, Kochi",
@@ -588,6 +620,22 @@
    "source": "Infopark",
    "email": "shibu.melath@linnk.com",
    "snippet": "Mid Level Full Stack Developer About Linnk Group Linnk Group builds next-generation enterprise SaaS platforms. At the center is the Linnk Innovation Hub, Cochin\u2014our R&D and product engineering nucleus\u2014where cross-functional teams "
+  },
+  {
+   "title": "React Native Developer",
+   "company": "iCodeBees Private Limited",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Full-stack"
+   ],
+   "posted": "2026-11-21",
+   "last_date": "24 Nov 2026",
+   "url": "https://infopark.in/company-jobs/details/450/26956",
+   "source": "Infopark",
+   "email": "info@icodebees.com",
+   "snippet": "Role: React Native Developers Experience : 6 + Yrs Job Purpose To realise the detailed design through programming and configuration and provide guidance and mentoring to other software developers Job Responsibilities *Produce work"
   },
   {
    "title": "Senior React Native Engineer",
@@ -650,6 +698,22 @@
    "last_date": "",
    "url": "https://in.linkedin.com/jobs/view/software-development-engineer-flutter-at-mcafee-4457144866",
    "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Sr.DevSecOps Engineer",
+   "company": "2Base Technologies Pvt Ltd",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-25",
+   "last_date": "25 Nov 2026",
+   "url": "https://infopark.in/company-jobs/details/312/27005",
+   "source": "Infopark",
    "email": "",
    "snippet": ""
   },
@@ -761,22 +825,6 @@
    "posted": "2026-11-20",
    "last_date": "01 Dec 2026",
    "url": "https://infopark.in/company-jobs/details/85/26928",
-   "source": "Infopark",
-   "email": "",
-   "snippet": ""
-  },
-  {
-   "title": "Sr.DevSecOps Engineer",
-   "company": "2Base Technologies Pvt Ltd",
-   "location": "Infopark, Kochi",
-   "city": "Kochi",
-   "type": "Full-time",
-   "stack": [
-    "Other"
-   ],
-   "posted": "2026-11-20",
-   "last_date": "24 Nov 2026",
-   "url": "https://infopark.in/company-jobs/details/312/26921",
    "source": "Infopark",
    "email": "",
    "snippet": ""
@@ -970,6 +1018,22 @@
    "last_date": "22 Nov 2026",
    "url": "https://infopark.in/company-jobs/details/378/26805",
    "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Frontend Developer",
+   "company": "Bajaj Broking",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-24",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/frontend-developer-at-bajaj-broking-4493019174",
+   "source": "LinkedIn",
    "email": "",
    "snippet": ""
   },
