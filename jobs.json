@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-25 10:02 IST",
- "updated_iso": "2026-11-25T10:02:25.765772+05:30",
+ "updated": "2026-11-26 20:57 IST",
+ "updated_iso": "2026-11-26T20:57:14.732468+05:30",
  "counts": {
-  "total": 67,
-  "internships": 23,
-  "kochi": 39
+  "total": 75,
+  "internships": 25,
+  "kochi": 43
  },
  "jobs": [
   {
@@ -121,6 +121,22 @@
    "email": "info@aabasoft.com",
    "snippet": "are looking for IT interns with a passion for technology, collaboration, and creative problem-solving. The intern needs to actively contribute to meaningful projects and work closely with a mentor and with senior leadership on dif",
    "type_intern_mention": true
+  },
+  {
+   "title": "Python Intern",
+   "company": "Axentriax by Elevate Labs",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Internship",
+   "stack": [
+    "Python"
+   ],
+   "posted": "2026-11-25",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/python-intern-at-axentriax-by-elevate-labs-4493401520",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
   },
   {
    "title": "AI & PYTHON DEVELOPER INTERN",
@@ -285,6 +301,22 @@
    "snippet": ""
   },
   {
+   "title": "Backend Engineering Intern",
+   "company": "Fam",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Internship",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-26",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/backend-engineering-intern-at-fam-4495266686",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
    "title": "Software Engineer Intern",
    "company": "Weekday (YC W21)",
    "location": "Bengaluru, Karnataka, India",
@@ -381,22 +413,6 @@
    "snippet": "Software Functional Support/ Implementer Trainee Required Software Functional Support Trainee (Freshers Candidates) in software support, Shipping & Logistics industry knowledge will be preferred. Candidates should be willing to tr"
   },
   {
-   "title": "QA Intern",
-   "company": "Hancod",
-   "location": "Perintalmanna, Kerala, India",
-   "city": "Other",
-   "type": "Internship",
-   "stack": [
-    "Other"
-   ],
-   "posted": "2026-11-19",
-   "last_date": "",
-   "url": "https://in.linkedin.com/jobs/view/qa-intern-at-hancod-4492139281",
-   "source": "LinkedIn",
-   "email": "",
-   "snippet": ""
-  },
-  {
    "title": "IBM Research/Research Software - Intern",
    "company": "IBM",
    "location": "Bengaluru, Karnataka, India",
@@ -408,6 +424,22 @@
    "posted": "2026-11-13",
    "last_date": "",
    "url": "https://in.linkedin.com/jobs/view/ibm-research-research-software-intern-at-ibm-4480635433",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "QA Intern",
+   "company": "Hancod",
+   "location": "Perintalmanna, Kerala, India",
+   "city": "Other",
+   "type": "Internship",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-19",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/qa-intern-at-hancod-4492139281",
    "source": "LinkedIn",
    "email": "",
    "snippet": ""
@@ -477,6 +509,86 @@
    "snippet": ""
   },
   {
+   "title": "Flutter Developer",
+   "company": "Scapia",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Full-time",
+   "stack": [
+    "Flutter"
+   ],
+   "posted": "2026-11-23",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/flutter-developer-at-scapia-4490259443",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "AI-Native Senior Forward Development Engineer \u2013 Frontend (Flutter)",
+   "company": "eGov Foundation",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Full-time",
+   "stack": [
+    "Flutter"
+   ],
+   "posted": "2026-11-25",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/ai-native-senior-forward-development-engineer-%E2%80%93-frontend-flutter-at-egov-foundation-4494901146",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Mobile Software Developer - Flutter",
+   "company": "Flexiple",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Full-time",
+   "stack": [
+    "Flutter"
+   ],
+   "posted": "2026-11-26",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/mobile-software-developer-flutter-at-flexiple-4495253793",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "JR-232247 Flutter Developer Middle",
+   "company": "Customertimes",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Full-time",
+   "stack": [
+    "Flutter"
+   ],
+   "posted": "2026-11-24",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/jr-232247-flutter-developer-middle-at-customertimes-4494384765",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "SOFTWARE ENGINEER \u2013 Flutter Developer | UI Development OR GoLang Backend",
+   "company": "Extreme Networks",
+   "location": "Bangalore Urban, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Full-time",
+   "stack": [
+    "Flutter"
+   ],
+   "posted": "2026-11-25",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/software-engineer-%E2%80%93-flutter-developer-ui-development-or-golang-backend-at-extreme-networks-4494909676",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
    "title": "Flutter Developer L5",
    "company": "Weekday AI (YC W21)",
    "location": "Bengaluru, Karnataka, India",
@@ -494,22 +606,6 @@
   },
   {
    "title": "Flutter Developer",
-   "company": "Scapia",
-   "location": "Bengaluru, Karnataka, India",
-   "city": "Bangalore",
-   "type": "Full-time",
-   "stack": [
-    "Flutter"
-   ],
-   "posted": "2026-11-23",
-   "last_date": "",
-   "url": "https://in.linkedin.com/jobs/view/flutter-developer-at-scapia-4490259443",
-   "source": "LinkedIn",
-   "email": "",
-   "snippet": ""
-  },
-  {
-   "title": "Flutter Developer",
    "company": "Infosys",
    "location": "Bengaluru East, Karnataka, India",
    "city": "Bangalore",
@@ -520,38 +616,6 @@
    "posted": "2026-11-17",
    "last_date": "",
    "url": "https://in.linkedin.com/jobs/view/flutter-developer-at-infosys-4483248915",
-   "source": "LinkedIn",
-   "email": "",
-   "snippet": ""
-  },
-  {
-   "title": "Mobile Software Developer - Flutter",
-   "company": "Flexiple",
-   "location": "Bengaluru, Karnataka, India",
-   "city": "Bangalore",
-   "type": "Full-time",
-   "stack": [
-    "Flutter"
-   ],
-   "posted": "2026-11-24",
-   "last_date": "",
-   "url": "https://in.linkedin.com/jobs/view/mobile-software-developer-flutter-at-flexiple-4493997338",
-   "source": "LinkedIn",
-   "email": "",
-   "snippet": ""
-  },
-  {
-   "title": "JR-232247 Flutter Developer Middle",
-   "company": "Customertimes",
-   "location": "Bengaluru, Karnataka, India",
-   "city": "Bangalore",
-   "type": "Full-time",
-   "stack": [
-    "Flutter"
-   ],
-   "posted": "2026-11-24",
-   "last_date": "",
-   "url": "https://in.linkedin.com/jobs/view/jr-232247-flutter-developer-middle-at-customertimes-4494384765",
    "source": "LinkedIn",
    "email": "",
    "snippet": ""
@@ -670,22 +734,6 @@
    "snippet": "React. Js Web Engineer About the Job Build and maintain user journeys for a web portal using React.js and TypeScript. Develop reusable UI components, integrate REST APIs, and deliver responsive, accessible features backed by autom"
   },
   {
-   "title": "Flutter Developer",
-   "company": "Tradl AI",
-   "location": "Bengaluru, Karnataka, India",
-   "city": "Bangalore",
-   "type": "Full-time",
-   "stack": [
-    "Flutter"
-   ],
-   "posted": "2026-11-11",
-   "last_date": "",
-   "url": "https://in.linkedin.com/jobs/view/flutter-developer-at-tradl-ai-4489942412",
-   "source": "LinkedIn",
-   "email": "",
-   "snippet": ""
-  },
-  {
    "title": "Software Development Engineer - Flutter",
    "company": "McAfee",
    "location": "Bengaluru, Karnataka, India",
@@ -702,6 +750,38 @@
    "snippet": ""
   },
   {
+   "title": "Flutter Developer",
+   "company": "Tradl AI",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Full-time",
+   "stack": [
+    "Flutter"
+   ],
+   "posted": "2026-11-11",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/flutter-developer-at-tradl-ai-4489942412",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Senior Application Security Engineer",
+   "company": "Mozilor Technologies Pvt. Ltd.",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-26",
+   "last_date": "26 Nov 2026",
+   "url": "https://infopark.in/company-jobs/details/333/27030",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
    "title": "Sr.DevSecOps Engineer",
    "company": "2Base Technologies Pvt Ltd",
    "location": "Infopark, Kochi",
@@ -710,9 +790,57 @@
    "stack": [
     "Other"
    ],
+   "posted": "2026-11-26",
+   "last_date": "26 Nov 2026",
+   "url": "https://infopark.in/company-jobs/details/312/27021",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Senior SAP Cloud ALM",
+   "company": "Simelabs - An Astek Company",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
    "posted": "2026-11-25",
-   "last_date": "25 Nov 2026",
-   "url": "https://infopark.in/company-jobs/details/312/27005",
+   "last_date": "25 Dec 2026",
+   "url": "https://infopark.in/company-jobs/details/378/27018",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Technical Support Engineer",
+   "company": "Airpay Financial Technologies Pvt. Ltd",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-25",
+   "last_date": "27 Nov 2026",
+   "url": "https://infopark.in/company-jobs/details/267/27016",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "ETL Lead / Engineers",
+   "company": "Experion Technologies",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-25",
+   "last_date": "07 Dec 2026",
+   "url": "https://infopark.in/company-jobs/details/103/27012",
    "source": "Infopark",
    "email": "",
    "snippet": ""
@@ -798,22 +926,6 @@
    "snippet": ""
   },
   {
-   "title": "DevOps Engineer",
-   "company": "Aabasoft Technologies India Private Limited",
-   "location": "Infopark, Kochi",
-   "city": "Kochi",
-   "type": "Full-time",
-   "stack": [
-    "Other"
-   ],
-   "posted": "2026-11-21",
-   "last_date": "21 Dec 2026",
-   "url": "https://infopark.in/company-jobs/details/95/26949",
-   "source": "Infopark",
-   "email": "",
-   "snippet": ""
-  },
-  {
    "title": "Senior / Lead Automation Engineer",
    "company": "Techversant Infotech Pvt Ltd",
    "location": "Infopark, Kochi",
@@ -825,6 +937,22 @@
    "posted": "2026-11-20",
    "last_date": "01 Dec 2026",
    "url": "https://infopark.in/company-jobs/details/85/26928",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "DevOps Engineer",
+   "company": "Aabasoft Technologies India Private Limited",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-21",
+   "last_date": "21 Dec 2026",
+   "url": "https://infopark.in/company-jobs/details/95/26949",
    "source": "Infopark",
    "email": "",
    "snippet": ""
