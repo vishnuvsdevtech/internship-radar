@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-26 20:57 IST",
- "updated_iso": "2026-11-26T20:57:14.732468+05:30",
+ "updated": "2026-11-27 10:01 IST",
+ "updated_iso": "2026-11-27T10:01:47.112880+05:30",
  "counts": {
-  "total": 75,
-  "internships": 25,
+  "total": 77,
+  "internships": 26,
   "kochi": 43
  },
  "jobs": [
@@ -280,6 +280,22 @@
    "posted": "2026-11-22",
    "last_date": "",
    "url": "https://in.linkedin.com/jobs/view/data-analyst-intern-at-natura-x-4493199187",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Back End Developer (Demo) Internship in Bangalore (Hybrid)",
+   "company": "Wispr Flow",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Internship",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-27",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/back-end-developer-demo-internship-in-bangalore-hybrid-at-wispr-flow-4495547989",
    "source": "LinkedIn",
    "email": "",
    "snippet": ""
@@ -589,6 +605,23 @@
    "snippet": ""
   },
   {
+   "title": "Full Stack Developer- GoLang + Flutter | Frontend & Backend Development",
+   "company": "Extreme Networks",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Full-time",
+   "stack": [
+    "Flutter",
+    "Full-stack"
+   ],
+   "posted": "2026-11-18",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/full-stack-developer-golang-%2B-flutter-frontend-backend-development-at-extreme-networks-4482511380",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
    "title": "Flutter Developer L5",
    "company": "Weekday AI (YC W21)",
    "location": "Bengaluru, Karnataka, India",
@@ -766,22 +799,6 @@
    "snippet": ""
   },
   {
-   "title": "Senior Application Security Engineer",
-   "company": "Mozilor Technologies Pvt. Ltd.",
-   "location": "Infopark, Kochi",
-   "city": "Kochi",
-   "type": "Full-time",
-   "stack": [
-    "Other"
-   ],
-   "posted": "2026-11-26",
-   "last_date": "26 Nov 2026",
-   "url": "https://infopark.in/company-jobs/details/333/27030",
-   "source": "Infopark",
-   "email": "",
-   "snippet": ""
-  },
-  {
    "title": "Sr.DevSecOps Engineer",
    "company": "2Base Technologies Pvt Ltd",
    "location": "Infopark, Kochi",
@@ -790,9 +807,25 @@
    "stack": [
     "Other"
    ],
-   "posted": "2026-11-26",
-   "last_date": "26 Nov 2026",
-   "url": "https://infopark.in/company-jobs/details/312/27021",
+   "posted": "2026-11-27",
+   "last_date": "27 Nov 2026",
+   "url": "https://infopark.in/company-jobs/details/312/27044",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Senior Application Security Engineer",
+   "company": "Mozilor Technologies Pvt. Ltd.",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-27",
+   "last_date": "28 Nov 2026",
+   "url": "https://infopark.in/company-jobs/details/333/27037",
    "source": "Infopark",
    "email": "",
    "snippet": ""
@@ -942,22 +975,6 @@
    "snippet": ""
   },
   {
-   "title": "DevOps Engineer",
-   "company": "Aabasoft Technologies India Private Limited",
-   "location": "Infopark, Kochi",
-   "city": "Kochi",
-   "type": "Full-time",
-   "stack": [
-    "Other"
-   ],
-   "posted": "2026-11-21",
-   "last_date": "21 Dec 2026",
-   "url": "https://infopark.in/company-jobs/details/95/26949",
-   "source": "Infopark",
-   "email": "",
-   "snippet": ""
-  },
-  {
    "title": "Senior Wordpress Developer",
    "company": "Planet Media India ( PMIN Agency Pvt.Ltd.)",
    "location": "Infopark, Kochi",
@@ -969,6 +986,22 @@
    "posted": "2026-11-19",
    "last_date": "31 Dec 2026",
    "url": "https://infopark.in/company-jobs/details/266/26914",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "DevOps Engineer",
+   "company": "Aabasoft Technologies India Private Limited",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-21",
+   "last_date": "21 Dec 2026",
+   "url": "https://infopark.in/company-jobs/details/95/26949",
    "source": "Infopark",
    "email": "",
    "snippet": ""
