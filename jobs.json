@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-27 10:01 IST",
- "updated_iso": "2026-11-27T10:01:47.112880+05:30",
+ "updated": "2026-11-28 11:28 IST",
+ "updated_iso": "2026-11-28T11:28:11.945799+05:30",
  "counts": {
-  "total": 77,
-  "internships": 26,
-  "kochi": 43
+  "total": 86,
+  "internships": 29,
+  "kochi": 48
  },
  "jobs": [
   {
@@ -285,8 +285,8 @@
    "snippet": ""
   },
   {
-   "title": "Back End Developer (Demo) Internship in Bangalore (Hybrid)",
-   "company": "Wispr Flow",
+   "title": "Backend Intern",
+   "company": "Convin",
    "location": "Bengaluru, Karnataka, India",
    "city": "Bangalore",
    "type": "Internship",
@@ -295,7 +295,23 @@
    ],
    "posted": "2026-11-27",
    "last_date": "",
-   "url": "https://in.linkedin.com/jobs/view/back-end-developer-demo-internship-in-bangalore-hybrid-at-wispr-flow-4495547989",
+   "url": "https://in.linkedin.com/jobs/view/backend-intern-at-convin-4495096028",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Software Engineering Internship \u2013 SI & Open-Source Construction Ecosystem",
+   "company": "JERRNI",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Internship",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-27",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/software-engineering-internship-%E2%80%93-si-open-source-construction-ecosystem-at-jerrni-4495355051",
    "source": "LinkedIn",
    "email": "",
    "snippet": ""
@@ -360,6 +376,38 @@
    "posted": "2026-11-19",
    "last_date": "",
    "url": "https://in.linkedin.com/jobs/view/moonshot-internship-ai-engineer-decision-engine-fast-track-to-ft-role-at-unloq%C2%AE-4492729642",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Forward Deployed Engineer - Intern",
+   "company": "Blue Machines AI",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Internship",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-26",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/forward-deployed-engineer-intern-at-blue-machines-ai-4495256881",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Back End Developer (Demo) Internship in Bangalore (Hybrid)",
+   "company": "Wispr Flow",
+   "location": "Bengaluru, Karnataka, India",
+   "city": "Bangalore",
+   "type": "Internship",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-27",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/back-end-developer-demo-internship-in-bangalore-hybrid-at-wispr-flow-4495547989",
    "source": "LinkedIn",
    "email": "",
    "snippet": ""
@@ -565,9 +613,9 @@
    "stack": [
     "Flutter"
    ],
-   "posted": "2026-11-26",
+   "posted": "2026-11-27",
    "last_date": "",
-   "url": "https://in.linkedin.com/jobs/view/mobile-software-developer-flutter-at-flexiple-4495253793",
+   "url": "https://in.linkedin.com/jobs/view/mobile-software-developer-flutter-at-flexiple-4495580666",
    "source": "LinkedIn",
    "email": "",
    "snippet": ""
@@ -703,6 +751,38 @@
    "snippet": ""
   },
   {
+   "title": "Software Engineers /Senior Software Developers \u2013 ASP.Net Core, Vue.JS, MongoDB",
+   "company": "KOTT SOFTWARE PRIVATE LIMITED",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-27",
+   "last_date": "31 Dec 2026",
+   "url": "https://infopark.in/company-jobs/details/143/27064",
+   "source": "Infopark",
+   "email": "info@kottsoftware.com",
+   "snippet": "Software Engineers /Senior Software Developers \u2013 ASP.Net Core, Vue.JS, MongoDB Job Summary: KOTT Software is a well-established, ISO 9001:2015, 100% EOU company in Enterprise Product development and Offshore Software Development S"
+  },
+  {
+   "title": "React JS Developer 2\u20133 Years of Experience",
+   "company": "Empay Software Solutions Private Limited",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Full-stack"
+   ],
+   "posted": "2026-11-27",
+   "last_date": "01 Dec 2026",
+   "url": "https://infopark.in/company-jobs/details/251/27063",
+   "source": "Infopark",
+   "email": "info@empaysoft.com",
+   "snippet": "are looking for a skilled React JS Developer with 2\u20133 years of hands-on experience in frontend development. The ideal candidate should be capable of developing user-friendly, scalable, and maintainable web applications and collabo"
+  },
+  {
    "title": "Mid Level Full Stack Developer",
    "company": "Linnk Outsource Solutions India Pvt Ltd",
    "location": "Infopark, Kochi",
@@ -799,6 +879,54 @@
    "snippet": ""
   },
   {
+   "title": "QA Lead (5\u20138 Years Experience with at least 2+ years of experience in lead role)",
+   "company": "Empay Software Solutions Private Limited",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-27",
+   "last_date": "01 Dec 2026",
+   "url": "https://infopark.in/company-jobs/details/251/27061",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "IAM/PAM Engineer \u2013 Delinea",
+   "company": "Simelabs - An Astek Company",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-27",
+   "last_date": "27 Dec 2026",
+   "url": "https://infopark.in/company-jobs/details/378/27056",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "DevSecOps Engineer",
+   "company": "Simelabs - An Astek Company",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-27",
+   "last_date": "27 Dec 2026",
+   "url": "https://infopark.in/company-jobs/details/378/27053",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
    "title": "Sr.DevSecOps Engineer",
    "company": "2Base Technologies Pvt Ltd",
    "location": "Infopark, Kochi",
@@ -808,7 +936,7 @@
     "Other"
    ],
    "posted": "2026-11-27",
-   "last_date": "27 Nov 2026",
+   "last_date": "28 Nov 2026",
    "url": "https://infopark.in/company-jobs/details/312/27044",
    "source": "Infopark",
    "email": "",
@@ -842,22 +970,6 @@
    "posted": "2026-11-25",
    "last_date": "25 Dec 2026",
    "url": "https://infopark.in/company-jobs/details/378/27018",
-   "source": "Infopark",
-   "email": "",
-   "snippet": ""
-  },
-  {
-   "title": "Technical Support Engineer",
-   "company": "Airpay Financial Technologies Pvt. Ltd",
-   "location": "Infopark, Kochi",
-   "city": "Kochi",
-   "type": "Full-time",
-   "stack": [
-    "Other"
-   ],
-   "posted": "2026-11-25",
-   "last_date": "27 Nov 2026",
-   "url": "https://infopark.in/company-jobs/details/267/27016",
    "source": "Infopark",
    "email": "",
    "snippet": ""
@@ -954,6 +1066,22 @@
    "posted": "2026-11-23",
    "last_date": "31 Dec 2026",
    "url": "https://infopark.in/company-jobs/details/103/26966",
+   "source": "Infopark",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Technical Support Engineer",
+   "company": "Airpay Financial Technologies Pvt. Ltd",
+   "location": "Infopark, Kochi",
+   "city": "Kochi",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-25",
+   "last_date": "27 Nov 2026",
+   "url": "https://infopark.in/company-jobs/details/267/27016",
    "source": "Infopark",
    "email": "",
    "snippet": ""
@@ -1194,6 +1322,22 @@
    "posted": "2026-11-24",
    "last_date": "",
    "url": "https://in.linkedin.com/jobs/view/frontend-developer-at-bajaj-broking-4493019174",
+   "source": "LinkedIn",
+   "email": "",
+   "snippet": ""
+  },
+  {
+   "title": "Staff Mobile Engineer (Engineer, Mobile - 5)",
+   "company": "Tide",
+   "location": "Greater Bengaluru Area",
+   "city": "Bangalore",
+   "type": "Full-time",
+   "stack": [
+    "Other"
+   ],
+   "posted": "2026-11-27",
+   "last_date": "",
+   "url": "https://in.linkedin.com/jobs/view/staff-mobile-engineer-engineer-mobile-5-at-tide-4486981018",
    "source": "LinkedIn",
    "email": "",
    "snippet": ""
